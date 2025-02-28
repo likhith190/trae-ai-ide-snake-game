@@ -22,7 +22,7 @@ A classic Snake Game implementation using HTML5 Canvas and JavaScript. This proj
 
 1. Clone the repository:
    ```bash
-   git clone [your-repository-url]
+   git clone git@github.com:likhith190/trae-ai-ide-snake-game.git
    ```
 
 2. Navigate to the project directory
