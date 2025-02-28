@@ -2,6 +2,10 @@
 
 A classic Snake Game implementation using HTML5 Canvas and JavaScript. This project features a modern, responsive design with a clean user interface.
 
+
+https://github.com/user-attachments/assets/4f93434d-2a61-4b25-819d-edeaabce8c7f
+
+
 ## Features
 
 - Smooth snake movement controls
